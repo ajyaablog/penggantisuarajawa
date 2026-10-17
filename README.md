@@ -30,12 +30,5 @@ Aplikasi ini bekerja dengan alur logika sederhana berbasis visual block:
 
 ---
 
-## 📁 Apa Saja Isi Repository Ini?
-* File project `.aia` (dapat di-import ke MIT App Inventor).
-* Tangkapan layar (*screenshot*) susunan blok logika.
-* File APK siap pakai *(opsional jika Anda mengunggahnya)*.
-
----
-
 ## 💬 Diskusi & Pertanyaan
 Jika Anda mengalami kendala saat menyusun blok logika atau saat melakukan *export* APK, silakan tulis pertanyaan di kolom komentar pada **[artikel blog saya](https://www.tlagaswara.com/2026/05/cara-membuat-apk-pengubah-suara-bahasa-jawa.html)** agar kita bisa berdiskusi bersama!
